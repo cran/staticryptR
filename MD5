@@ -1,0 +1,12 @@
+c2d684d1a6c5c03439e68e403c95b99b *DESCRIPTION
+1d9872bafd2455a451e2be4888a7f996 *LICENSE
+ed38fa1021d43912263968e56604fadb *NAMESPACE
+3fbc35973d84350aad530055110c0d34 *NEWS.md
+42cdc7ac40a77f78380a8f7427bb5858 *R/node_functions.R
+3f50c76a35c2422bcd77abae9f6871c0 *R/staticrypt.r
+4867208f4af345ba0e1491e906d3dec3 *README.md
+7107b34451787978198aaac979e78079 *man/check_system.Rd
+06ae5d94ce3cf3c4af673f46c77d6538 *man/figures/logo.png
+2e8a178af8e603c0f98bd351f4b81ead *man/figures/logo.svg
+9418afc834d5593c6689387da4df5156 *man/install_staticrypt.Rd
+79d2ce68e77ec758744f91c92951a1c7 *man/staticryptr.Rd
